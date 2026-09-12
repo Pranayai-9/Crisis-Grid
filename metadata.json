@@ -1,0 +1,6 @@
+{
+  "name": "CrisisGrid",
+  "description": "The Decision Intelligence Layer for Disaster Response — From fragmented disaster data to prioritized, optimized action in Varuna District.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
